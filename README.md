@@ -30,6 +30,7 @@ You can then at any time see your bookmarks in a tree-type structure in the exte
 
 
 USEFUL LINKS FOR DEVELOPMENT
+
 1. Getting started with Chrome Extensions: https://developer.chrome.com/extensions/getstarted.html
 2. jQuery tutorial: http://www.w3schools.com/jquery/
 3. Chrome Storage API: https://developer.chrome.com/extensions/storage.html
